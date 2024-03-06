@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Campus Coneect</string>
+    <string name="get_started_text">Experience\n hustle free\n Event Management</string>
+    <string name="forgot_password_msg">Don\'t worry! it happens. Please enter the email address associated with your account.</string>
+    <string name="on_submit_msg">Check out your mailbox, you will receive an email containing link where you can reset your password</string>
+    <string name="default_web_client_id" translatable="false">285327036226-2876vlrstihimnc5t67rtu0ipa1vclgc.apps.googleusercontent.com</string>
+</resources>
